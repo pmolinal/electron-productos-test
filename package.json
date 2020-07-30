@@ -1,0 +1,16 @@
+{
+  "name": "electron-productos-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.1.2",
+    "electron-reload": "^1.5.0"
+  }
+}
